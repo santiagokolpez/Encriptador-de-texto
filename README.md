@@ -8,8 +8,6 @@ Contiene un pie de página con un apartado para contacto y un apartado de social
 
 ## 📑 Reglas:
 
-####  ⚠️ Condiciones:
-
 ✅ Solo se pueden utilizar letras minúsculas.
 
 ✅ No se permiten acentos ortográficos ni símbolos especiales.
@@ -23,8 +21,6 @@ Contiene un pie de página con un apartado para contacto y un apartado de social
 ✅ Un botón que copie el texto encriptado/desencriptado para la sección de transferencia, o sea que tenga la misma funcionalidad del ctrl+C o de la opción “copiar” del menú de las aplicaciones.
 
 ## 🔏Valores de encriptacion
-
-####  🕵🏻‍♀️ Equivalencias
 
 | Valor | Clave   |
 | :---- | :------ |
