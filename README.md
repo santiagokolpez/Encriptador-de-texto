@@ -1,3 +1,4 @@
+![insignia](img/Decodificador_de_texto.png)
 #  🛰️ Encriptador de texto con Alura Latam
 
 Esta aplicación web fue generada con la finalidad transformar un texto ingresado en uno encriptado o desencriptado.
